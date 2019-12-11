@@ -1,0 +1,11 @@
+name: detectron2
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pytorch=1.3
+  - torchvision
+  - opencv
+  - pycocotools
+  - pip
